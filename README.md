@@ -28,3 +28,7 @@ Compatible with GitHub Pages, Netlify, Vercel, Cloudflare Pages, or any static h
 ## Editing content
 
 All copy lives in `index.html`. Update sections in place — no templates or frameworks involved.
+
+## Hero background
+
+The hero has a hand-drawn anatomical SVG behind it (parchment tone, sepia ink). To upgrade to a real public-domain plate from Wikimedia Commons, see `assets/README.md`.
